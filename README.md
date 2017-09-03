@@ -1,1 +1,3 @@
 # LabFive
+
+Simulates dice rolling.
